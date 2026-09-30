@@ -1,0 +1,19 @@
+{
+  "nome": "discipulado",
+  "pacote": "com.croger.personalizado",
+  "modelo": "Personalizado",
+  "modulos": [
+    "Biblioteca",
+    "Apostilas",
+    "Questões",
+    "Cadastros",
+    "Planilhas",
+    "Presença",
+    "Exercícios",
+    "Progresso",
+    "Relatórios"
+  ],
+  "categorias": [
+    "estudos"
+  ]
+}

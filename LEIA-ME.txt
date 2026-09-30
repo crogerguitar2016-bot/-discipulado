@@ -1,0 +1,5 @@
+APLICATIVO: discipulado
+PACOTE: com.croger.personalizado
+
+CATEGORIAS:
+- estudos
